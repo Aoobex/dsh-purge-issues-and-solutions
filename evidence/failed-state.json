@@ -1,0 +1,1 @@
+{"token":"417161c6-2ae3-4b7d-972f-7d76edca78ad","phase":"failed","updated_at":"2026-11-14T16:47:08.193Z","detail":"Handoff broker failed (broker_exit_code=1, signal=none); the helper exit code, if observed, is recorded separately in D:\\Program Files\\DeepSeek Harness\\resources\\app.asar.purge-handoff.json.broker.log"}
