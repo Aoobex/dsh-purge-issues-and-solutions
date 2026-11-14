@@ -1,4 +1,10 @@
-# dsh-purge「换包失败」问题解决汇总
+# dsh-purge 问题及解决方案
+
+> **关于仓库名**：GitHub 的仓库名只允许 ASCII 字符（英文字母、数字、`.`、`-`、`_`），
+> 提交中文会被**静默剔除**而不是报错——实测把仓库名写成 `dsh-purge问题及解决方案`，
+> 落库后变成 `dsh-purge-`。所以本仓库的英文名是 **`dsh-purge-issues-and-solutions`**
+> （直译「问题及解决方案」），中文只出现在仓库简介、README 与文件名里（例如 `一键菜单.cmd`）。
+> 旧地址会自动跳转到新名，不会断链。
 
 > 现场：Windows 11 + DeepSeek Harness Desktop 0.2.2-rc.3 + dsh-purge-community 1.7.14
 > 记录时间：2026-11-15（UTC+8）
